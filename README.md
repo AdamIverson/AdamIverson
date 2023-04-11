@@ -1,4 +1,4 @@
-### Hello! I spent the first 40 years of my life trying to figure out what everything means. I realized somewhere along the way that if I ever figure out anything worth sharing, I'll need to know the language of the day to communicate my findings. Learning the medium of Software Development, thereby learning to build websites and apps, is essential to whatever it is that I think I'm doing.
+### Hello! I spent the first 40 years of my life trying to figure out what everything means. I realized somewhere along the way that if I ever come to anything worth sharing, I'll need to know the language of the day to communicate my findings. Learning the medium of Software Development, thereby learning to build websites and apps, is essential to whatever it is that I think I'm doing.
 
 Right now, I need to immerse myself in the code. I need to work somewhere that only cares about my development skills and production. This is how I will gain the technical understanding necessary to generate the personal projects on which I am ruminating.
 
