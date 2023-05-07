@@ -2,8 +2,6 @@
 
 Right now, I need to immerse myself in the code. I need to work somewhere that only cares about my development skills and production. This is how I will gain the technical understanding necessary to generate the personal projects on which I am ruminating.
 
-I'm currently working on an Expo/Firebase app for my gym, Solcana Fitness. Please see pinned repo "solcanaThree".
-
 <!--
 **AdamIverson/AdamIverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
